@@ -12,7 +12,7 @@ import com.alibaba.android.vlayout.layout.GridLayoutHelper;
 import com.example.myapplication.R;
 
 /**
- * Created by haier on 2017/3/6.
+ * Created by tianpeng on 2017/3/6.
  */
 
 public class HomeCouponAdapter extends DelegateAdapter.Adapter<HomeCouponAdapter.ViewHolder> {

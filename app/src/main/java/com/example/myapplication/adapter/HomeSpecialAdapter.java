@@ -13,7 +13,7 @@ import com.example.myapplication.R;
 
 /**
  * 专题
- * Created by haier on 2017/3/7.
+ * Created by tianpeng on 2017/3/7.
  */
 
 public class HomeSpecialAdapter extends DelegateAdapter.Adapter<HomeSpecialAdapter.ViewHolder> {

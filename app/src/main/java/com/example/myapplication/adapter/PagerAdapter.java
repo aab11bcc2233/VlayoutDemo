@@ -7,7 +7,7 @@ import android.widget.TextView;
 import com.alibaba.android.vlayout.RecyclablePagerAdapter;
 
 /**
- * Created by haier on 2017/3/6.
+ * Created by tianpeng on 2017/3/6.
  */
 
 public class PagerAdapter extends RecyclablePagerAdapter<HomeBannerAdapter.ViewHolder> {

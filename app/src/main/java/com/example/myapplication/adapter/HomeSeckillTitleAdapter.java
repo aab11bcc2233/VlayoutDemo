@@ -12,7 +12,7 @@ import com.alibaba.android.vlayout.layout.LinearLayoutHelper;
 import com.example.myapplication.R;
 
 /**
- * Created by haier on 2017/3/7.
+ * Created by tianpeng on 2017/3/7.
  */
 
 public class HomeSeckillTitleAdapter extends DelegateAdapter.Adapter<HomeSeckillTitleAdapter.ViewHolder> {

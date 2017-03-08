@@ -12,7 +12,7 @@ import com.alibaba.android.vlayout.layout.LinearLayoutHelper;
 import com.example.myapplication.R;
 
 /**
- * Created by haier on 2017/3/6.
+ * Created by tianpeng on 2017/3/6.
  */
 
 public class HomeBannerAdapter extends DelegateAdapter.Adapter<HomeBannerAdapter.ViewHolder> {

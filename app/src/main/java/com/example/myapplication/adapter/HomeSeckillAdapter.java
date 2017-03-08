@@ -17,7 +17,7 @@ import butterknife.InjectView;
 
 /**
  * 秒杀
- * Created by haier on 2017/3/7.
+ * Created by tianpeng on 2017/3/7.
  */
 
 public class HomeSeckillAdapter extends DelegateAdapter.Adapter<HomeSeckillAdapter.ViewHolder> {
